@@ -1,0 +1,690 @@
+﻿No,First Name,Last Name,Gender,Start Date,Years,Department,Country,Center,Monthly Salary,Annual Salary,Job Rate,Sick Leaves,Unpaid Leaves,Overtime Hours
+1,Ghadir,Hmshw,Male,04-04-2018,7,Quality Control,Egypt,West,1560,18720,3,1,0,183
+2,Omar,Hishan,Male,21-05-2020,5,Quality Control,Saudi Arabia,West,3247,38964,1,0,5,198
+3,Ailya,Sharaf,Female,28-09-2017,8,Major Mfg Projects,Saudi Arabia,West,2506,30072,2,0,3,192
+4,Lwiy,Qbany,Male,14-08-2018,7,Manufacturing,United Arab Emirates,Main,1828,21936,3,0,0,7
+5,Ahmad,Bikri,Male,11-03-2020,6,Manufacturing,Egypt,Main,970,11640,5,0,5,121
+6,Muhamad,Zueitr,Male,02-02-2016,10,Product Development,Saudi Arabia,North,2332,27984,3,3,0,8
+7,Iin,Alhalaliu,Female,08-05-2020,5,Sales,United Arab Emirates,Main,1959,23508,3,6,0,116
+8,Muhamad,Alaya,Male,10-02-2018,8,Account Management,Egypt,Main,3394,40728,5,0,0,7
+9,Susin,Almilat,Female,11-03-2018,8,Green Building,Egypt,North,1479,17748,4.5,0,0,105
+10,Muhamad,Alrifaei,Male,03-01-2020,6,Account Management,Egypt,Main,1186,14232,4.5,1,0,153
+11,Muhamad,Alqadah,Male,16-01-2018,8,Manufacturing,Syria,Main,1485,17820,2,5,0,12
+12,Muhamad,Iad,Male,19-07-2018,7,IT,Egypt,Main,2016,24192,1,2,0,70
+13,Razaan,Nasif,Female,11-11-2018,7,Facilities/Engineering,Egypt,Main,1999,23988,5,6,0,85
+14,Iilian,Dbs,Female,01-03-2016,10,Facilities/Engineering,United Arab Emirates,North,3404,40848,5,1,0,8
+15,Bayan,Qdw,Female,04-12-2018,7,Marketing,Egypt,Main,889,10668,3,1,1,8
+16,Alaa,Muhamad,Male,07-10-2019,6,Sales,Egypt,South,930,11160,3,0,0,77
+17,Sandra,Aljurmqaniu,Female,27-05-2016,9,Account Management,Saudi Arabia,West,3149,37788,4.5,0,0,93
+18,Farahad,Husayn,Male,12-05-2018,7,Quality Control,United Arab Emirates,West,1295,15540,3,4,0,153
+19,Ahed,Salim,Female,24-04-2018,7,Quality Control,United Arab Emirates,South,2162,25944,3,0,0,8
+20,Ayham,Tutwnji,Male,02-10-2019,6,Product Development,United Arab Emirates,West,2180,26160,2,6,0,10
+21,Samir,Alsafdi,Male,03-12-2020,5,Account Management,Egypt,Main,1475,17700,5,0,0,98
+22,Bilal,Jalal,Male,08-01-2019,7,Manufacturing Admin,Egypt,Main,1290,15480,3,4,0,109
+23,Riad,Sahalul,Male,14-11-2019,6,Training,Saudi Arabia,Main,1764,21168,3,0,0,111
+24,Ahmad,Ahmad,Male,17-10-2019,6,Quality Assurance,Saudi Arabia,West,2682,32184,4.5,1,0,32
+25,Muhamad,Altarah,Male,13-12-2020,5,IT,Egypt,North,3044,36528,3,6,0,94
+26,Lwna,Abu,Female,02-08-2020,5,Product Development,Egypt,Main,890,10680,4.5,0,0,13
+27,Jalal,Almuluhi,Male,03-12-2018,7,Quality Control,Egypt,West,2207,26484,5,0,0,70
+28,Rana,Mius,Female,06-03-2019,7,Manufacturing,Saudi Arabia,West,2136,25632,4.5,1,0,9
+29,Lina,Aljabaan,Female,16-12-2019,6,Quality Control,Egypt,Main,1161,13932,5,0,1,97
+30,Rami,Shanan,Male,13-08-2019,6,Professional Training Group,United Arab Emirates,West,830,9960,5,0,0,71
+31,Eala,Alhaj,Female,09-06-2020,5,Quality Assurance,Saudi Arabia,West,2977,35724,5,0,0,100
+32,Ghalib,Zakianiin,Male,19-05-2019,6,Environmental Compliance,Syria,North,3151,37812,3,0,5,48
+33,Muhamad,Eurul,Male,03-05-2017,8,Quality Assurance,Egypt,North,1551,18612,1,0,0,148
+34,Eizat,Ghanim,Male,21-06-2017,8,Product Development,United Arab Emirates,South,2099,25188,1,0,0,5
+35,Ahmad,Swyd,Male,01-02-2017,9,Sales,Egypt,North,808,9696,4.5,1,0,7
+36,Muhamad,Aleass,Male,23-09-2019,6,Manufacturing,Saudi Arabia,Main,984,11808,4.5,6,0,37
+37,Rima,AlAsfar,Female,27-01-2016,10,Quality Assurance,Egypt,North,1011,12132,5,0,3,5
+38,Zayn,Aleabdyn Zaetar,Female,29-11-2020,5,Quality Control,United Arab Emirates,West,2026,24312,5,1,0,3
+39,Hazim,Alshshatim,Male,17-06-2018,7,Quality Control,Egypt,Main,2801,33612,3,0,0,9
+40,Dia,Alshahf,Male,14-09-2019,6,Marketing,United Arab Emirates,Main,3208,38496,3,0,0,0
+41,Ayham,Almusaa,Male,26-04-2019,6,Manufacturing,Saudi Arabia,South,2129,25548,4.5,0,0,26
+42,Abd Allatif,Mabrukh,Male,10-12-2020,5,Facilities/Engineering,Egypt,North,3344,40128,5,0,0,7
+43,Salim,Abumaeun,Male,30-06-2017,8,Account Management,United Arab Emirates,Main,2836,34032,5,0,0,14
+44,Rafat,Hamza,Male,03-05-2020,5,Quality Control,Saudi Arabia,Main,1960,23520,3,0,0,9
+45,Ahmad,Laylana,Male,27-11-2016,9,Facilities/Engineering,Egypt,Main,1478,17736,4.5,5,6,7
+46,Lobnaa,Khalifih,Female,18-12-2019,6,Marketing,United Arab Emirates,North,1981,23772,2,0,0,3
+47,Sami,Alkhujih,Male,17-04-2019,6,Creative,United Arab Emirates,Main,2064,24768,2,0,0,0
+48,Salam,Alealbi,Female,09-03-2016,10,Manufacturing,Egypt,Main,1045,12540,5,1,0,3
+49,Rim,Almusaa,Female,06-05-2020,5,Manufacturing,Egypt,West,2022,24264,3,0,0,1
+50,Ghada,Aleasimii,Female,21-10-2019,6,Quality Assurance,Egypt,North,2383,28596,5,0,4,1
+51,Abd Alwahhab,Muhamad,Male,30-10-2018,7,Manufacturing,Egypt,West,1563,18756,3,3,0,1
+52,Ayman,Eubayd,Male,22-08-2019,6,Sales,Saudi Arabia,West,919,11028,2,0,0,10
+53,Faras,Karim,Male,23-10-2020,5,Quality Assurance,Egypt,Main,988,11856,5,0,0,5
+54,Shadi,Salayk,Male,02-02-2019,7,Quality Assurance,United Arab Emirates,North,2631,31572,3,3,6,10
+55,Eubay,Alttahir,Male,16-09-2016,9,Quality Control,Egypt,North,2368,28416,3,6,0,5
+56,Abd Alhadi,Alzzahir,Male,14-03-2018,8,Sales,Egypt,South,2679,32148,3,3,0,85
+57,Majdulin,Ashbrh,Female,16-03-2019,7,Account Management,Egypt,Main,2423,29076,3,5,0,10
+58,Aylyn,Dahadal,Female,19-01-2020,6,Quality Assurance,Egypt,West,2115,25380,5,0,0,0
+59,Tala,Tuish,Female,21-04-2019,6,Product Development,United Arab Emirates,North,2969,35628,1,0,0,11
+60,Muhamad,Qarh,Male,19-07-2019,6,Training,Egypt,North,2467,29604,3,0,0,7
+61,Eala,Almisri,Female,27-04-2019,6,Facilities/Engineering,Egypt,Main,3244,38928,3,0,0,10
+62,Muhamad,Alzaybq,Male,05-12-2018,7,Research/Development,Egypt,Main,2132,25584,3,5,0,2
+63,Muhamad,Asamy,Male,25-03-2017,9,Manufacturing,United Arab Emirates,North,994,11928,3,6,4,0
+64,Ahmad,Alealbi,Male,20-01-2016,10,IT,Egypt,North,2304,27648,5,5,0,2
+65,Ibrahim,Almasri,Male,29-06-2018,7,Quality Assurance,Egypt,Main,1207,14484,2,0,0,50
+66,Hamdah,Alkhalifa,Male,07-09-2019,6,Manufacturing,Syria,North,802,9624,4.5,2,0,3
+67,Muhamad,Jawish,Male,25-11-2019,6,Marketing,United Arab Emirates,North,2065,24780,3,4,3,4
+68,Muwmin,Almudhin,Male,28-06-2020,5,IT,Egypt,West,2882,34584,5,0,4,0
+69,Ahmad,Zayd,Male,17-06-2018,7,Account Management,Egypt,North,2042,24504,5,0,3,64
+70,Layzaan,Nabulsi,Male,03-12-2019,6,Facilities/Engineering,Saudi Arabia,West,2017,24204,3,6,0,8
+71,Sarih,Eammar,Male,03-07-2018,7,Quality Assurance,Syria,Main,3215,38580,2,5,0,2
+72,Karam,Hutayniun,Male,17-11-2016,9,Manufacturing,United Arab Emirates,North,2957,35484,5,1,0,10
+73,Shahad,Shanan,Female,02-10-2019,6,Product Development,Syria,North,891,10692,3,0,2,6
+74,Salah,Ramadan,Male,27-08-2018,7,Environmental Health/Safety,United Arab Emirates,North,1971,23652,4.5,5,1,0
+75,Sami,Alkhayrat,Male,14-11-2020,5,Facilities/Engineering,United Arab Emirates,West,2317,27804,3,6,1,10
+76,Khalid,Snan,Male,28-11-2019,6,Manufacturing,Egypt,South,1657,19884,3,0,0,12
+77,Salam,Alkhatib,Male,20-04-2018,7,Manufacturing,Egypt,West,3053,36636,3,0,3,6
+78,Darar,Alshiyraziu,Male,10-01-2020,6,Manufacturing,United Arab Emirates,West,1887,22644,1,6,0,4
+79,Mazin,Yusif,Male,07-11-2018,7,Manufacturing,United Arab Emirates,Main,1457,17484,4.5,0,0,9
+80,Rasha,Naeim,Female,06-05-2019,6,Quality Control,Egypt,Main,2581,30972,5,0,0,8
+81,Eamra,Alshueranii,Female,27-08-2016,9,IT,United Arab Emirates,North,901,10812,5,0,2,10
+82,Amira,Akrym,Female,23-06-2016,9,Account Management,United Arab Emirates,Main,898,10776,4.5,3,0,11
+83,Muhamad,Hamzat,Male,26-08-2020,5,Account Management,Egypt,West,2878,34536,3,0,0,2
+84,Muhamad,Khayr,Male,16-01-2018,8,Environmental Compliance,Egypt,Main,2539,30468,3,0,0,0
+85,Abd Almalik,Nazal,Male,05-07-2018,7,Quality Control,Egypt,North,2533,30396,5,0,0,2
+86,Rabya,Kiwan,Female,16-01-2019,7,Training,Egypt,West,885,10620,3,0,0,3
+87,Muhamad,Khayr,Male,19-06-2019,6,Facilities/Engineering,United Arab Emirates,West,1166,13992,5,0,4,5
+88,Samah,Almaydanii,Female,01-10-2017,8,Account Management,United Arab Emirates,West,2022,24264,5,0,0,3
+89,Ali,Watar,Male,26-01-2020,6,Training,Egypt,Main,1752,21024,2,5,4,76
+90,Darin,Ghunum,Female,20-07-2019,6,IT,Egypt,Main,3157,37884,1,6,1,4
+91,Faras,Alhamal,Male,27-07-2020,5,Quality Control,Egypt,Main,3211,38532,5,6,1,9
+92,Amal,Asamy,Female,11-10-2018,7,Quality Assurance,Egypt,North,1062,12744,3,1,0,7
+93,Razan,AlAhmad,Female,11-07-2019,6,Facilities/Engineering,Egypt,Main,1406,16872,4.5,4,0,46
+94,Muhamad,Kharasah,Male,17-08-2019,6,Environmental Compliance,United Arab Emirates,West,3084,37008,3,6,0,3
+95,Tariq,Bryghl,Male,04-11-2020,5,Marketing,Egypt,Main,1815,21780,4.5,1,0,9
+96,Muhamad,Husayn,Male,21-07-2017,8,IT,United Arab Emirates,Main,1861,22332,3,0,5,9
+97,Fadi,Aleid,Male,10-04-2018,7,Manufacturing,United Arab Emirates,North,3088,37056,5,3,0,10
+98,Tariq,Abuzahir,Male,03-05-2017,8,Human Resources,Syria,Main,3071,36852,5,6,0,2
+99,Mazin,Eubayd,Male,29-11-2018,7,Manufacturing,United Arab Emirates,North,3298,39576,3,0,0,9
+100,Lina,Aljabr,Female,27-08-2018,7,Product Development,Saudi Arabia,North,828,9936,5,0,0,10
+101,Muhamad,Ayman,Male,17-11-2019,6,Manufacturing,Egypt,North,2404,28848,4.5,0,0,99
+102,Ayman,Muhamad,Male,02-10-2019,6,Marketing,Egypt,South,3410,40920,3,2,0,8
+103,Ahmad,Abu Eadlh,Male,24-11-2019,6,Product Development,United Arab Emirates,Main,1817,21804,5,1,0,1
+104,Rami,Abu Adhan,Male,06-02-2020,6,Manufacturing,Syria,Main,2923,35076,2,0,0,0
+105,Muhamad,Hamzat,Male,24-10-2018,7,Professional Training Group,Egypt,South,3138,37656,5,6,0,10
+106,Ehab,Alkhibaz,Male,28-05-2020,5,Account Management,Egypt,North,3139,37668,3,0,0,10
+107,Ibrahim,Nabulsi,Male,17-05-2016,9,Training,United Arab Emirates,Main,3263,39156,3,0,0,3
+108,Ranya,Salah Aldiyn,Female,22-01-2019,7,Quality Control,United Arab Emirates,Main,1258,15096,5,0,0,5
+109,Juri,Zaytun,Female,11-09-2020,5,Marketing,Egypt,North,2527,30324,3,3,0,16
+110,Sahar,Almuhamad,Female,19-09-2018,7,Marketing,Egypt,Main,3017,36204,4.5,0,4,4
+111,Mari,Ayly,Female,20-04-2016,9,Account Management,Saudi Arabia,North,1639,19668,5,0,0,2
+112,Ali,Alhuri,Male,04-10-2019,6,IT,Egypt,Main,1867,22404,3,1,0,3
+113,Dania,Almala,Female,16-10-2016,9,Quality Assurance,United Arab Emirates,Main,2314,27768,2,0,3,5
+114,Rym,Alsydawi,Female,04-02-2017,9,Quality Control,Saudi Arabia,Main,2679,32148,5,6,0,1
+115,Mahir,Alshear,Male,02-06-2019,6,Quality Control,Egypt,North,3166,37992,4.5,5,0,4
+116,Ibrahim,Alhamid,Male,03-03-2019,7,Manufacturing,United Arab Emirates,Main,2429,29148,5,0,0,7
+117,Muhamad,Alkhayr,Male,06-10-2019,6,Manufacturing,United Arab Emirates,Main,1865,22380,4.5,0,0,4
+118,Muhamad,Bashshar,Male,15-02-2018,8,Account Management,United Arab Emirates,South,868,10416,4.5,2,0,2
+119,Muhamad,Jhad,Male,03-04-2019,6,Manufacturing,Egypt,West,3411,40932,5,4,0,2
+120,Limays,Ghrz,Female,13-11-2016,9,Marketing,Syria,North,3324,39888,3,5,0,7
+121,Zaydun,Jabir,Male,24-10-2019,6,Manufacturing,United Arab Emirates,Main,2715,32580,1,0,3,3
+122,Fatima,Zaetar,Female,28-07-2019,6,Quality Assurance,United Arab Emirates,West,2664,31968,4.5,1,0,9
+123,Tariq,Shakir,Male,30-10-2020,5,Quality Control,Saudi Arabia,Main,1801,21612,5,0,0,82
+124,Ruyda,Alhamadii,Female,25-01-2018,8,Manufacturing,United Arab Emirates,Main,1452,17424,3,0,0,0
+125,Anwar,Almaseud,Male,28-06-2017,8,Quality Control,United Arab Emirates,North,2358,28296,3,0,0,14
+126,Fayaruz,Sabih,Female,11-08-2019,6,Manufacturing,Egypt,North,784,9408,3,2,3,9
+127,Jwny,Alrashid,Male,27-07-2017,8,Manufacturing,Egypt,Main,1423,17076,3,0,0,4
+128,Karam,Kiali,Male,28-07-2018,7,Human Resources,United Arab Emirates,Main,2174,26088,2,6,0,10
+129,Jamal,Alhalib,Male,18-07-2020,5,Marketing,Egypt,North,2182,26184,4.5,6,0,74
+130,Suzan,Alsawis,Female,29-07-2019,6,Quality Control,Egypt,Main,2437,29244,3,0,0,2
+131,Alaa,Efan,Female,18-09-2019,6,Quality Control,Egypt,Main,926,11112,2,3,0,1
+132,Jihad,Aldarawasha,Male,30-01-2017,9,Marketing,United Arab Emirates,West,1506,18072,3,0,0,1
+133,Muhamad,Khalid,Male,03-01-2018,8,IT,Saudi Arabia,North,3159,37908,5,0,0,10
+134,Haithim,Hujah,Male,04-09-2017,8,Quality Assurance,Syria,North,1117,13404,1,0,0,3
+135,Duhana,Alakhris,Female,14-06-2018,7,Quality Control,Syria,West,2379,28548,4.5,0,0,7
+136,Eazalidin,Almala,Male,28-11-2019,6,Manufacturing,Egypt,Main,2372,28464,5,4,1,6
+137,Habib,Klizli,Male,09-02-2020,6,Quality Assurance,Egypt,North,2908,34896,3,0,0,12
+138,Rasha,Bajubuj,Female,12-05-2020,5,Environmental Compliance,Egypt,Main,2019,24228,3,5,2,15
+139,Mahir,Albaghdadi,Male,29-05-2018,7,Manufacturing,Egypt,North,877,10524,1,0,0,0
+140,Alaa,Almunzilijiu,Male,22-03-2019,7,Marketing,Egypt,North,1043,12516,5,0,0,0
+141,Labanaa,Qaziyha,Female,21-08-2019,6,IT,United Arab Emirates,Main,3258,39096,3,3,0,0
+142,Fatnh,Abu,Female,30-11-2020,5,Quality Assurance,Saudi Arabia,North,976,11712,5,5,0,2
+143,Iilyas,Dahadal,Female,16-04-2019,6,Account Management,Egypt,Main,3096,37152,2,0,0,8
+144,Rim,Huaydi,Female,27-03-2019,7,Training,Egypt,West,1985,23820,3,6,2,6
+145,Ahmad,Muhamad,Male,20-01-2020,6,Product Development,United Arab Emirates,Main,2371,28452,5,0,0,1
+146,Abd Alruhmin,Almahrus,Male,24-02-2019,7,Quality Assurance,Egypt,North,2562,30744,2,4,0,3
+147,Biaism,Tyzry,Female,28-08-2020,5,Quality Control,Syria,Main,1254,15048,5,0,0,8
+148,Omar,Milatu,Male,14-03-2018,8,Manufacturing,Syria,Main,793,9516,5,6,0,2
+149,Alyida,Nieamah,Female,29-09-2017,8,Creative,Egypt,West,2416,28992,3,0,0,2
+150,Kamal,Hajl,Male,07-02-2017,9,Facilities/Engineering,Syria,North,822,9864,5,6,0,1
+151,Amjad,Naghnagh,Male,14-10-2020,5,Manufacturing,Egypt,South,1442,17304,5,2,1,23
+152,Iin,Qisi,Female,11-11-2019,6,IT,Egypt,West,887,10644,4.5,0,0,54
+153,Basmah,Alhabis,Female,26-02-2017,9,Manufacturing,Egypt,North,1671,20052,2,0,0,3
+154,Eala,Dahbur,Female,27-03-2019,7,Account Management,United Arab Emirates,Main,1877,22524,4.5,1,0,0
+155,Rwbyna,Iibrahim,Female,05-03-2019,7,IT,United Arab Emirates,North,1960,23520,2,0,0,8
+156,Tariq,Salim,Male,19-07-2018,7,Manufacturing,United Arab Emirates,Main,2422,29064,4.5,0,2,10
+157,Basimah,Sybea,Female,06-08-2019,6,Manufacturing,Saudi Arabia,Main,1299,15588,5,0,0,8
+158,Zunar,Eali,Male,18-03-2020,6,Major Mfg Projects,Egypt,South,2127,25524,5,0,0,3
+159,Rim,Mia,Female,07-07-2019,6,Quality Control,Egypt,North,3096,37152,2,5,0,9
+160,Lana,Alhabash,Female,05-02-2016,10,Manufacturing,Egypt,West,951,11412,1,6,0,8
+161,Muhamad,Alshghry,Male,16-05-2020,5,Manufacturing,Egypt,North,2940,35280,1,6,0,13
+162,Ghazal,Hisan,Female,28-09-2020,5,Facilities/Engineering,Saudi Arabia,Main,3293,39516,4.5,1,6,9
+163,Khalil,Alzaebii,Male,15-04-2017,8,Marketing,United Arab Emirates,North,3250,39000,2,1,0,8
+164,Samir,Shalish,Male,12-10-2018,7,Account Management,Egypt,Main,2085,25020,3,1,0,9
+165,Abdalmjid,Ahmad,Male,22-06-2019,6,Manufacturing,Lebanon,Main,1578,18936,3,0,0,15
+166,Emar,Abil,Female,17-09-2019,6,Account Management,United Arab Emirates,Main,1169,14028,3,1,0,10
+167,Lamia,Warur,Female,11-07-2017,8,Account Management,Saudi Arabia,South,1054,12648,5,4,6,7
+168,Fyfian,Abu,Female,03-08-2019,6,Account Management,Egypt,Main,1349,16188,4.5,1,0,4
+169,Majd,Yasin,Female,16-04-2019,6,Quality Control,United Arab Emirates,South,2196,26352,5,4,0,9
+170,Alaa,Almisri,Female,16-01-2020,6,Quality Assurance,Egypt,Main,3264,39168,5,6,5,4
+171,Muhamad,Amir,Male,26-07-2017,8,Quality Control,United Arab Emirates,North,1232,14784,5,4,5,2
+172,Lilas,Balatah,Female,18-11-2019,6,IT,Egypt,Main,2401,28812,5,0,0,9
+173,Ruaa,Mukiin,Female,16-09-2017,8,Manufacturing,Saudi Arabia,Main,3168,38016,5,0,0,18
+174,Rana,Shaeban,Female,17-02-2018,8,Quality Assurance,Egypt,Main,1620,19440,5,5,0,10
+175,Muwmin,Ewad,Male,06-06-2017,8,Quality Control,United Arab Emirates,Main,1482,17784,5,0,0,3
+176,Rahaf,Alaleppoy,Female,18-04-2020,5,Account Management,Egypt,Main,1967,23604,4.5,6,0,6
+177,Samiah,Alsaedi,Female,16-03-2018,8,Manufacturing,Egypt,Main,1696,20352,5,0,0,5
+178,Rim,Hamdu,Female,24-12-2018,7,Facilities/Engineering,Egypt,South,2913,34956,4.5,0,0,3
+179,Aishah,Alquatliu,Female,07-03-2020,6,Quality Assurance,Lebanon,South,2068,24816,1,0,1,0
+180,Dany,Albaba,Male,25-10-2018,7,Environmental Health/Safety,United Arab Emirates,North,1430,17160,3,6,0,0
+181,Muhamad,Rinkusi,Male,30-05-2018,7,Account Management,Saudi Arabia,North,3138,37656,1,0,5,9
+182,Isam,Jadid,Male,04-12-2020,5,Manufacturing,Egypt,Main,2051,24612,3,0,0,2
+183,Bushraa,Drwysh,Female,08-09-2018,7,Facilities/Engineering,Egypt,North,2986,35832,1,3,0,8
+184,Zakarian,Rashwani,Male,28-02-2019,7,Manufacturing,Syria,Main,2790,33480,5,6,0,3
+185,Fadi,Alqadi,Male,17-12-2020,5,Facilities/Engineering,Egypt,Main,1075,12900,4.5,6,0,7
+186,Diea,Almarstani,Male,07-05-2019,6,Sales,Syria,Main,2009,24108,1,5,0,0
+187,Muhamad,Siedih,Male,03-08-2018,7,Training,Egypt,Main,3254,39048,3,4,6,5
+188,Bisam,Almisri,Female,17-10-2019,6,Creative,United Arab Emirates,Main,2367,28404,3,0,0,1
+189,Muhamad,Alkhatib,Male,02-02-2018,8,Manufacturing,United Arab Emirates,Main,3158,37896,3,2,5,10
+190,Muhamad,Rghid,Male,27-12-2019,6,Manufacturing,United Arab Emirates,Main,1980,23760,2,0,0,2
+191,Omar,Shakir,Male,07-04-2019,6,Account Management,Egypt,Main,2049,24588,3,6,0,23
+192,Aryj,Hamada,Female,27-05-2020,5,Quality Assurance,Egypt,North,2727,32724,2,0,0,8
+193,Madlin,Saeid,Female,07-12-2019,6,Manufacturing,United Arab Emirates,South,974,11688,5,0,0,9
+194,Rybal,Sabagh,Male,06-11-2019,6,Product Development,United Arab Emirates,North,992,11904,5,0,0,3
+195,Samar,Alqutb,Female,17-08-2018,7,Account Management,Egypt,West,2730,32760,1,4,6,9
+196,Eala,Murad,Female,18-01-2016,10,Facilities/Engineering,Egypt,West,2804,33648,4.5,0,0,4
+197,Ahmad,Salih,Male,03-04-2019,6,Quality Control,Egypt,Main,1467,17604,5,6,0,0
+198,Ibrahim,Alhamid,Male,06-11-2020,5,Major Mfg Projects,Lebanon,West,997,11964,5,1,0,68
+199,Muhamad,Alziyat,Male,28-08-2019,6,Account Management,Saudi Arabia,West,1859,22308,5,5,0,1
+200,Ali,Nhl,Male,03-09-2019,6,Quality Assurance,Egypt,North,1231,14772,1,1,5,7
+201,Saed,Alsiyah,Male,19-07-2019,6,Manufacturing,Egypt,Main,719,8628,5,0,0,8
+202,Majdy,Rafaea,Male,31-05-2020,5,Environmental Compliance,United Arab Emirates,Main,2186,26232,1,2,0,10
+203,Ihsan,Eazu,Male,18-05-2019,6,Professional Training Group,Egypt,West,1605,19260,4.5,5,4,9
+204,Iad,Alshaykh,Male,17-05-2018,7,Facilities/Engineering,Egypt,Main,2365,28380,1,0,0,73
+205,Bara,Alrrashid,Male,17-04-2017,8,Research Center,Syria,Main,1096,13152,4.5,4,0,8
+206,Fadi,Nuna,Male,08-07-2019,6,Facilities/Engineering,Egypt,North,1037,12444,3,6,0,5
+207,Muhamad,Salah,Male,03-12-2020,5,Facilities/Engineering,Syria,West,1757,21084,2,6,0,13
+208,Bima,Mustafaa,Female,03-11-2020,5,Quality Assurance,Egypt,Main,3405,40860,5,0,0,1
+209,Husam,Abu Shwmr,Male,11-06-2018,7,Account Management,United Arab Emirates,West,2154,25848,5,0,0,0
+210,Abdalrahmin,Turkmany,Male,12-02-2019,7,Marketing,Egypt,Main,805,9660,2,0,0,6
+211,Majdulyn,Alhakim,Female,03-10-2018,7,Human Resources,Egypt,Main,3093,37116,4.5,0,0,10
+212,Ahmad,Abu Jaysh,Male,10-08-2017,8,Creative,Saudi Arabia,West,1039,12468,3,2,0,87
+213,Majid,Aleusud,Male,23-11-2019,6,Account Management,Egypt,West,1012,12144,3,1,0,7
+214,Bashshar,Shakhashiru,Male,13-06-2017,8,Sales,Egypt,Main,2216,26592,2,0,0,11
+215,Malik,Alshaykh,Male,28-11-2020,5,Quality Assurance,Egypt,South,2020,24240,4.5,0,5,0
+216,Omar,Zarzur,Male,06-11-2016,9,Product Development,United Arab Emirates,North,3309,39708,4.5,1,0,7
+217,Hasan,Iismaeil,Male,05-05-2020,5,Account Management,United Arab Emirates,North,983,11796,2,6,0,0
+218,Husayn,Abu Nasir,Male,25-03-2018,8,Manufacturing,Egypt,Main,741,8892,3,0,0,1
+219,Mazin,Earabi,Male,13-09-2016,9,Account Management,United Arab Emirates,Main,1171,14052,4.5,0,0,0
+220,Zahir,Eisaa,Male,18-12-2019,6,Quality Assurance,Egypt,North,2512,30144,5,6,0,10
+221,Lama,Sabiq,Female,29-03-2019,7,Quality Control,Egypt,West,1608,19296,1,0,3,4
+222,Tariq,Dw,Male,24-04-2020,5,Quality Assurance,United Arab Emirates,North,1677,20124,1,0,0,12
+223,Jawaher,Shaykhus,Female,25-04-2018,7,Quality Assurance,Egypt,West,3414,40968,5,0,0,2
+224,Emam,Mansur,Male,29-03-2019,7,Quality Assurance,Lebanon,Main,1358,16296,5,0,0,10
+225,Muhamad,Bulta,Male,17-08-2019,6,Account Management,Egypt,South,703,8436,4.5,0,0,64
+226,Fatin,Hamshu,Female,09-12-2018,7,Product Development,Egypt,Main,2017,24204,2,0,1,8
+227,Abd Alruhmin,Alnasar,Male,10-08-2019,6,Product Development,Egypt,Main,1806,21672,5,0,0,7
+228,Fatin,Red,Female,17-07-2019,6,Creative,Egypt,North,2421,29052,3,6,0,16
+229,Ali,Muhamad,Male,05-06-2018,7,Marketing,United Arab Emirates,North,1461,17532,5,1,0,7
+230,Rima,Dwalyby,Female,02-10-2020,5,Manufacturing,Egypt,South,1287,15444,1,0,0,7
+231,Basil,Musaa,Male,24-05-2018,7,Manufacturing,Egypt,Main,2756,33072,3,2,0,4
+232,Antuan,Litansdurfr,Male,09-01-2019,7,Quality Control,Egypt,Main,2332,27984,5,0,0,2
+233,Rashad,Iidris,Male,26-11-2019,6,Training,Egypt,Main,812,9744,3,0,0,10
+234,Bidralidin,Ahmdghrybw,Male,29-09-2020,5,Manufacturing,Egypt,North,2651,31812,1,0,0,12
+235,Faras,Shaykh,Male,23-03-2019,7,Sales,United Arab Emirates,West,2331,27972,4.5,0,0,9
+236,Muhamad,Eala Aldiyn,Male,27-12-2019,6,Sales,Saudi Arabia,North,2162,25944,5,0,0,13
+237,Khaldun,Suqbani,Male,09-06-2020,5,Manufacturing,Egypt,North,1952,23424,3,1,1,34
+238,Lwna,Albahra,Female,10-04-2020,5,Product Development,Egypt,North,2976,35712,4.5,0,2,6
+239,Ahmad,Ezqul,Male,21-06-2018,7,Manufacturing,Saudi Arabia,Main,2080,24960,5,0,5,13
+240,Salih,Alhamuwd,Male,27-11-2018,7,Marketing,Egypt,Main,1668,20016,4.5,0,3,3
+241,Muhamad,Abu Zamil,Male,05-07-2016,9,Marketing,Egypt,Main,2234,26808,5,3,0,7
+242,Fuad,Alsyqly,Male,27-10-2019,6,Account Management,Syria,South,2096,25152,3,5,2,0
+243,Muhamad,Aldamshqi,Male,27-05-2019,6,Manufacturing,Saudi Arabia,Main,2129,25548,3,1,1,3
+244,Sayf Aldiyn,Alkmshh,Male,12-02-2019,7,Manufacturing,Saudi Arabia,Main,1429,17148,3,0,5,8
+245,Muhamad,Alssati,Male,22-10-2020,5,Manufacturing,United Arab Emirates,North,1479,17748,3,5,4,8
+246,Khalid,Alem,Male,16-12-2020,5,Quality Control,United Arab Emirates,North,2884,34608,5,1,6,3
+247,Ayham,Aleisaa,Male,02-12-2020,5,Training,Syria,Main,2947,35364,3,5,0,1
+248,Abd Alruhmin,Dulul,Male,24-06-2018,7,Quality Control,Egypt,North,1795,21540,1,0,0,4
+249,Ruba,Aleid,Female,06-02-2018,8,Account Management,Egypt,West,1982,23784,5,1,0,7
+250,Muhamad,Badawiin,Male,27-11-2020,5,Account Management,Egypt,South,2543,30516,5,0,0,86
+251,Sharihan,Rihan,Female,08-02-2020,6,Manufacturing,Egypt,Main,2787,33444,3,3,0,12
+252,Ibrahim,Alyasin,Male,04-02-2020,6,Quality Assurance,Egypt,North,1095,13140,5,6,0,5
+253,Iin,Mulaliyun,Female,15-04-2020,5,Manufacturing,Saudi Arabia,Main,2009,24108,5,0,0,0
+254,Danah,Almahdi,Female,06-07-2016,9,Environmental Compliance,Egypt,North,1837,22044,3,1,0,2
+255,Muhamad,Sakar,Male,21-09-2019,6,Training,Saudi Arabia,Main,3109,37308,3,1,0,9
+256,Lama,Yasin,Female,31-05-2020,5,Manufacturing,Egypt,Main,2832,33984,5,1,0,5
+257,Asf,Abultif,Male,01-01-2019,7,Manufacturing,Egypt,Main,2940,35280,1,6,4,7
+258,Ahmad,Alshalaq,Male,05-04-2019,6,Product Development,Syria,North,983,11796,5,0,0,13
+259,Mazin,Zawal,Male,20-04-2020,5,IT,Egypt,North,1223,14676,1,6,0,10
+260,Diana,Aleabd,Female,13-07-2020,5,Research/Development,Egypt,North,833,9996,1,1,0,5
+261,Kawkab,Qarqazan,Female,10-05-2018,7,Quality Control,Egypt,West,2074,24888,3,1,0,2
+262,Thamir,Abu Ghazy,Male,12-03-2018,8,Quality Control,United Arab Emirates,South,2811,33732,3,0,1,9
+263,Muhamad,Alabth,Male,23-09-2019,6,Quality Control,Saudi Arabia,North,1436,17232,4.5,3,4,4
+264,Khadijah,Abu Taqih,Female,01-07-2019,6,Manufacturing,Egypt,North,1041,12492,2,2,0,5
+265,Salwaa,Alsyd,Female,15-06-2018,7,Quality Control,Egypt,Main,2231,26772,3,0,0,87
+266,Muayid,Shbyb,Male,16-02-2019,7,Marketing,United Arab Emirates,West,1036,12432,3,0,0,1
+267,Rannym,Tyru,Female,15-10-2020,5,Quality Control,Egypt,North,2143,25716,5,0,0,45
+268,Iin,Alhaju Bikr,Female,07-01-2020,6,Quality Assurance,United Arab Emirates,South,967,11604,5,0,4,9
+269,Jihad,Aldukifi,Male,16-07-2020,5,Product Development,Egypt,South,2510,30120,1,0,0,3
+270,Sandurana,Antun,Female,31-03-2019,6,Marketing,Egypt,Main,3364,40368,2,0,0,1
+271,Eala,Darkzifli,Female,06-01-2019,7,Quality Assurance,Egypt,West,3420,41040,5,6,0,10
+272,Samir,Alsaeid,Male,14-09-2019,6,Creative,United Arab Emirates,South,2229,26748,3,3,0,1
+273,Amir,Alhifar,Male,27-05-2020,5,Creative,Egypt,West,1910,22920,5,2,0,5
+274,Lama,Almala,Female,07-08-2019,6,Training,Egypt,North,1917,23004,4.5,0,1,84
+275,Hasan,Kalthum,Male,20-12-2018,7,Quality Control,Egypt,North,831,9972,1,1,2,7
+276,Muhamad,Saeadat,Male,06-07-2019,6,Quality Control,United Arab Emirates,Main,2636,31632,4.5,0,2,4
+277,Rana,Eijrush,Female,05-09-2018,7,Account Management,Syria,Main,2929,35148,2,0,1,4
+278,Tariq,Alkinaya,Male,26-10-2019,6,Quality Control,Egypt,North,1255,15060,1,6,0,15
+279,Amjad,Alrz,Male,12-04-2020,5,Quality Control,United Arab Emirates,Main,2210,26520,3,0,0,13
+280,Daniah,Alhariri,Female,15-10-2019,6,Quality Control,Egypt,North,1788,21456,5,1,0,9
+281,Hasan,Quidr,Male,30-04-2020,5,Quality Control,Egypt,North,2488,29856,5,0,5,3
+282,Muhamad,Shaykh Janid,Male,18-04-2020,5,Manufacturing,Egypt,North,2187,26244,5,1,3,2
+283,Esamat,Zaza,Male,12-05-2020,5,Quality Control,Egypt,Main,1366,16392,2,0,0,13
+284,Fadi,Hububati,Male,06-05-2019,6,Quality Assurance,Egypt,West,2612,31344,5,0,0,8
+285,Adnan,Alhusayn,Male,09-04-2018,7,Account Management,United Arab Emirates,Main,2246,26952,5,0,0,8
+286,Muhamad,Allibad,Male,26-07-2018,7,Quality Control,Egypt,Main,2761,33132,5,0,2,5
+287,Tana,Dahruj,Female,01-12-2019,6,Creative,Egypt,Main,1536,18432,4.5,0,0,76
+288,Muhamad,Almtlq,Male,10-11-2016,9,Professional Training Group,Saudi Arabia,South,2180,26160,4.5,0,0,80
+289,Sana,Alhusayn,Female,23-12-2019,6,Account Management,Egypt,Main,3412,40944,5,2,0,3
+290,Muhamad,Bdraldyn,Male,30-05-2018,7,Facilities/Engineering,Egypt,Main,2546,30552,4.5,0,0,6
+291,Muhamad,Eataya,Male,27-12-2017,8,Research/Development,Egypt,North,1856,22272,5,0,0,0
+292,Fadi,Aljizamati,Male,02-06-2019,6,Product Development,Egypt,Main,3220,38640,5,6,0,3
+293,Alaa,Alqasir,Male,13-04-2016,9,Manufacturing,Saudi Arabia,Main,3061,36732,5,0,0,3
+294,Abd Alruhmin,Salih,Male,26-08-2017,8,Training,Saudi Arabia,North,2221,26652,2,0,0,1
+295,Shilan,Ahmad,Female,27-04-2017,8,Quality Control,Saudi Arabia,South,1799,21588,4.5,2,0,6
+296,Hasan,Aljasim,Male,24-05-2017,8,Account Management,Egypt,South,2082,24984,3,0,0,1
+297,Khalil,Salam,Male,23-08-2016,9,Creative,United Arab Emirates,North,1490,17880,4.5,0,2,6
+298,Majd,Abuhamd,Female,15-03-2020,6,Account Management,United Arab Emirates,North,2042,24504,4.5,0,0,10
+299,Sami,Qareush,Male,02-05-2016,9,Marketing,Syria,Main,985,11820,5,1,0,5
+300,Rima,Jaridiun,Female,05-05-2017,8,Sales,Egypt,North,1988,23856,3,0,0,7
+301,Iin,Alhumwi,Female,05-07-2018,7,Account Management,Saudi Arabia,South,1545,18540,5,1,0,1
+302,Akthum,Eibdalbaqi,Male,04-07-2020,5,Training,Egypt,Main,2637,31644,5,0,0,50
+303,Muhamad,Almurashihi,Male,11-12-2019,6,Manufacturing,Saudi Arabia,North,1385,16620,4.5,0,0,6
+304,Batual,Abu Fakhar,Female,05-02-2018,8,Manufacturing,United Arab Emirates,South,2468,29616,1,4,0,3
+305,Rinah,Alkhuriu,Female,29-06-2018,7,Professional Training Group,Syria,Main,2098,25176,4.5,0,0,3
+306,Muhamad,Alsaqaraq,Male,22-05-2019,6,Marketing,United Arab Emirates,Main,2302,27624,3,6,0,6
+307,Diea,Sharina,Male,10-04-2019,6,Facilities/Engineering,Egypt,Main,1623,19476,1,6,0,4
+308,Jablah,Alsulayman,Female,13-03-2019,7,Quality Assurance,Lebanon,Main,1333,15996,3,1,6,10
+309,Muhamad,Almaghribiu,Male,18-11-2016,9,Quality Control,United Arab Emirates,Main,1431,17172,5,0,0,4
+310,Kholoud,Khayti,Female,24-12-2019,6,Manufacturing,Egypt,West,2527,30324,3,0,0,98
+311,Rahaf,Jamul,Female,06-02-2017,9,Manufacturing,Egypt,South,2631,31572,3,0,0,7
+312,Faras,Alrahil,Male,12-03-2018,8,Marketing,Egypt,West,1600,19200,4.5,0,0,0
+313,Abd Alrazzaq,Gharah,Male,16-12-2020,5,Environmental Compliance,Egypt,Main,2752,33024,5,0,0,4
+314,Alaa,Saed,Female,16-06-2020,5,Quality Control,Egypt,Main,3125,37500,5,0,0,5
+315,Lylas,Shiah,Female,02-07-2019,6,IT,Saudi Arabia,West,2091,25092,2,0,1,9
+316,Kinda,Alaqre,Female,22-12-2016,9,Marketing,United Arab Emirates,Main,1009,12108,4.5,0,0,17
+317,Muhamad,Almisri,Male,11-10-2020,5,Quality Control,Saudi Arabia,Main,3443,41316,1,0,0,1
+318,Dinana,Zaydan,Female,23-03-2018,8,Manufacturing,Syria,West,1582,18984,4.5,0,0,5
+319,Amyrah,Mudinih,Female,04-03-2019,7,Marketing,United Arab Emirates,North,2103,25236,5,1,1,2
+320,Safa,AlAhmar,Female,06-01-2018,8,Environmental Compliance,Egypt,Main,3108,37296,1,0,0,45
+321,Ahmad,Eurman,Male,19-08-2016,9,Manufacturing,Egypt,Main,1810,21720,3,0,0,5
+322,Abd Allah,Almawsiliu,Male,10-08-2018,7,Creative,Saudi Arabia,West,2312,27744,3,3,0,10
+323,Majd,Eisaa,Female,11-06-2020,5,Facilities/Engineering,Egypt,Main,2783,33396,1,2,0,15
+324,Muhamad,Salhany,Male,02-12-2020,5,Quality Control,Egypt,Main,3428,41136,3,5,0,10
+325,Ashraf,Aleid,Male,05-02-2018,8,Account Management,Egypt,North,3450,41400,2,0,4,9
+326,Muhamad,Shadi Alghazy,Male,19-09-2018,7,Research Center,United Arab Emirates,Main,1226,14712,2,6,5,4
+327,Muhamad,Husayn,Male,30-08-2019,6,Quality Assurance,Egypt,North,3219,38628,3,0,0,5
+328,Mazin,Bytar,Male,19-04-2019,6,Quality Control,Saudi Arabia,Main,2060,24720,5,0,0,14
+329,Iin,Farahat,Female,18-01-2019,7,IT,Syria,Main,2479,29748,5,0,2,3
+330,Lama,Albazir,Female,28-05-2018,7,Product Development,United Arab Emirates,Main,2106,25272,3,0,0,9
+331,Emar,Alnisrin,Female,07-06-2019,6,Manufacturing,Saudi Arabia,South,1480,17760,2,0,0,10
+332,Afra,Sharabi,Female,19-11-2017,8,Manufacturing,Egypt,West,994,11928,1,0,0,9
+333,Ahmad,Hamuwd,Male,28-11-2019,6,Facilities/Engineering,United Arab Emirates,Main,2119,25428,4.5,1,5,0
+334,Ramiz,Aleuryan,Male,05-10-2018,7,IT,Egypt,Main,1577,18924,4.5,0,0,7
+335,Iad,Eaku,Male,04-05-2018,7,Quality Control,United Arab Emirates,Main,3160,37920,5,0,5,10
+336,Husayn,Euthman,Male,19-10-2020,5,Professional Training Group,Saudi Arabia,Main,2692,32304,1,4,0,6
+337,Imran,Hazruma,Male,26-11-2018,7,Account Management,United Arab Emirates,South,1448,17376,4.5,0,0,1
+338,Rawan,Durkzili,Female,17-03-2019,7,Manufacturing,Egypt,West,1568,18816,3,5,0,7
+339,Muayid,Shaqir,Male,20-12-2016,9,Facilities/Engineering,Egypt,North,1823,21876,4.5,5,0,9
+340,Muanis,Alsabagh,Male,16-02-2019,7,Manufacturing,Egypt,West,1712,20544,4.5,0,4,15
+341,Dijwar,Husu,Male,30-10-2020,5,Product Development,United Arab Emirates,South,744,8928,5,5,0,8
+342,Asama,Eilwan,Female,29-07-2017,8,Manufacturing,Egypt,North,2972,35664,5,0,4,2
+343,Esamat,Alhidad,Male,16-11-2019,6,Account Management,Egypt,North,2931,35172,3,6,0,71
+344,Tariq,Zaeur,Male,20-07-2018,7,Creative,Syria,West,2544,30528,3,0,0,2
+345,Rasul,Aleumurii,Male,23-08-2016,9,Manufacturing,Saudi Arabia,Main,1595,19140,5,0,0,0
+346,Rawan,Albaytar,Female,05-12-2018,7,Account Management,Syria,West,1326,15912,3,0,3,7
+347,Omar,Altuean,Male,27-01-2019,7,Marketing,Egypt,Main,3117,37404,3,0,4,0
+348,Dalia,Hamdan,Female,11-02-2019,7,Major Mfg Projects,Egypt,West,3446,41352,5,0,0,10
+349,Omar,Alhindi,Male,11-01-2019,7,Manufacturing,United Arab Emirates,West,2023,24276,4.5,6,0,6
+350,Ali,Zyny,Male,01-08-2020,5,Quality Assurance,Egypt,North,979,11748,3,6,0,4
+351,Almuetaz,Biallah,Male,21-08-2020,5,Environmental Health/Safety,Egypt,Main,1676,20112,4.5,0,0,8
+352,Rabana,Alsaman,Female,12-01-2017,9,Sales,Egypt,North,3079,36948,3,0,0,2
+353,Ghada,Khalid,Female,29-07-2019,6,IT,Egypt,Main,2164,25968,3,0,2,0
+354,Esamat,Alriys,Male,11-11-2020,5,Manufacturing,Egypt,Main,2312,27744,3,0,0,31
+355,Amir,Alkhatib,Male,27-08-2017,8,Account Management,Egypt,West,834,10008,2,6,0,13
+356,Samirah,Jumea,Female,15-01-2019,7,Quality Control,Egypt,Main,723,8676,3,0,0,10
+357,Samir,Alhaj Ali,Male,14-05-2016,9,Quality Assurance,Egypt,West,2807,33684,3,5,1,2
+358,Farial,Qulumih,Female,18-06-2017,8,Marketing,Saudi Arabia,North,1002,12024,5,1,0,3
+359,Salih,Dawara,Male,11-07-2020,5,Creative,Egypt,West,2265,27180,5,1,0,9
+360,Abdalhadi,Salim,Male,15-10-2019,6,Quality Control,Egypt,North,3283,39396,5,0,0,3
+361,Ruaa,Qahraman,Female,14-04-2018,7,Quality Assurance,Egypt,North,2675,32100,3,1,6,4
+362,Muhamad,Mshati,Male,16-01-2019,7,Marketing,United Arab Emirates,Main,3056,36672,4.5,0,0,9
+363,Shadi,Altibae,Male,14-10-2019,6,Manufacturing,Egypt,West,1579,18948,3,0,0,14
+364,Ahmad,Iidlibi,Male,06-06-2019,6,Marketing,Saudi Arabia,East,1255,15060,3,6,0,0
+365,Fadi,Ghazzawi,Male,31-01-2019,7,Quality Control,Egypt,East,3418,41016,3,4,0,1
+366,Basil,Eabd Aleal,Male,30-11-2020,5,Marketing,Egypt,East,3368,40416,3,0,0,8
+367,Sali,Musuh,Female,15-11-2019,6,Green Building,United Arab Emirates,North,3275,39300,3,1,2,12
+368,Alaa,Iismaeil,Female,27-12-2020,5,IT,United Arab Emirates,West,3043,36516,2,0,0,8
+369,Maria,Alhizae,Female,04-12-2019,6,Creative,Lebanon,North,1122,13464,4.5,2,4,7
+370,Ghazal,Alghan,Female,24-03-2018,8,Manufacturing,Egypt,Main,764,9168,5,4,1,13
+371,Eala,Mitri,Female,02-02-2019,7,Account Management,Saudi Arabia,North,2879,34548,2,0,0,8
+372,Muhamad,Aleliwi,Male,25-02-2020,6,Manufacturing,United Arab Emirates,West,2252,27024,3,1,0,50
+373,Ahmad,Almisri,Male,09-11-2018,7,Product Development,United Arab Emirates,South,2149,25788,3,0,0,1
+374,Ahmad,Aldwltali,Male,08-11-2019,6,Human Resources,United Arab Emirates,Main,2428,29136,5,0,0,35
+375,Muhamad,Udib,Male,12-10-2019,6,Manufacturing,Egypt,Main,3240,38880,5,0,0,6
+376,Alaa,Yuzbik,Female,11-03-2018,8,Account Management,Egypt,East,1448,17376,3,4,0,10
+377,Husayn,Zaerur,Male,01-08-2020,5,Manufacturing,Egypt,East,2409,28908,3,3,3,3
+378,Saeid,Mazlum,Male,03-10-2019,6,Professional Training Group,United Arab Emirates,South,3030,36360,2,6,0,5
+379,Ahmad,Alghurani,Male,18-09-2020,5,Manufacturing,United Arab Emirates,North,2544,30528,5,0,0,11
+380,Abd Alsamad,Ahmad,Male,12-02-2017,9,Facilities/Engineering,Egypt,West,2872,34464,4.5,5,0,7
+381,Amir,Alhasan,Male,03-01-2019,7,Product Development,Egypt,South,2263,27156,4.5,0,0,8
+382,Alaa,Altahhan,Female,27-08-2019,6,Quality Control,United Arab Emirates,East,2136,25632,5,4,0,12
+383,Iad,Mahfud,Male,24-07-2017,8,Manufacturing,Egypt,Main,2379,28548,4.5,1,0,10
+384,Sarah,Damrani,Female,24-07-2020,5,Account Management,Egypt,North,1940,23280,3,4,6,5
+385,Husam,Aldubus,Male,18-05-2019,6,Facilities/Engineering,Egypt,Main,1558,18696,2,0,6,9
+386,Ahmad,Zynu,Male,08-04-2019,6,IT,Egypt,North,1341,16092,5,3,0,8
+387,Lwy,Abu,Male,11-04-2019,6,Manufacturing,Egypt,Main,1703,20436,5,2,0,10
+388,Tariq,Shams,Male,20-07-2020,5,Professional Training Group,Egypt,North,3282,39384,1,0,0,2
+389,Muhamad,Khalil,Male,05-03-2020,6,Sales,Egypt,West,3125,37500,2,6,3,0
+390,Amal,Alhusayn,Female,07-05-2020,5,Account Management,United Arab Emirates,West,2232,26784,4.5,0,0,7
+391,Fadi,Shakur,Male,29-03-2017,9,Quality Assurance,Syria,Main,2513,30156,4.5,2,0,8
+392,Abdalhai,Sarhan,Male,22-02-2017,9,Facilities/Engineering,Syria,South,2818,33816,2,4,0,8
+393,Ahmad,Alqadi,Male,20-05-2018,7,Quality Assurance,Egypt,North,2257,27084,3,0,0,6
+394,Husam,Albush,Male,23-04-2020,5,Account Management,Egypt,Main,1265,15180,3,0,0,5
+395,Anas,Eabidin,Male,26-10-2020,5,Manufacturing Admin,United Arab Emirates,Main,2207,26484,3,2,0,0
+396,Muhamad,Ebdalwahd,Male,04-02-2019,7,Marketing,Egypt,North,2806,33672,3,0,0,4
+397,Khalid,Iibrahim,Male,15-02-2017,9,Environmental Health/Safety,United Arab Emirates,South,1521,18252,5,6,0,3
+398,Muhamad,Aleazm,Male,07-04-2018,7,Facilities/Engineering,Egypt,South,1867,22404,3,0,0,0
+399,Maya,Alhmwi,Female,10-12-2018,7,Quality Control,Saudi Arabia,North,2425,29100,5,0,0,10
+400,Basil,Khiat,Male,14-12-2020,5,Marketing,Saudi Arabia,Main,1758,21096,5,0,0,0
+401,Muhamad,Zaydan,Male,26-12-2020,5,Manufacturing,Syria,East,2832,33984,3,0,0,1
+402,Randa,Alajw,Female,24-05-2017,8,Marketing,Egypt,North,1371,16452,1,1,0,8
+403,Muhamad,Alghazi,Male,27-12-2018,7,Marketing,Egypt,East,2904,34848,5,6,0,3
+404,Rahaf,Eijluni,Female,16-02-2019,7,Product Development,Lebanon,Main,3285,39420,3,2,0,0
+405,Sultan,Alhijar,Male,09-07-2018,7,Facilities/Engineering,Egypt,West,2964,35568,5,2,0,45
+406,Asma,Sadqawi,Female,05-04-2018,7,Account Management,United Arab Emirates,North,974,11688,2,5,0,5
+407,Fulla,Alkhalid,Female,24-04-2019,6,Account Management,Saudi Arabia,East,2607,31284,4.5,0,0,9
+408,Lujin,Alaleppoy,Female,20-09-2017,8,Quality Control,Egypt,Main,1550,18600,1,0,0,3
+409,Jihan,Alqudmani,Female,23-07-2016,9,Sales,Egypt,Main,1631,19572,4.5,0,0,4
+410,Anwar,Alkhayran,Male,10-02-2019,7,Marketing,Egypt,East,3003,36036,1,6,1,6
+411,Qasim,Muhamad,Male,01-12-2019,6,Manufacturing,Egypt,West,913,10956,5,0,0,12
+412,Samir,Altaynawi,Male,18-07-2017,8,Facilities/Engineering,Egypt,South,2076,24912,3,0,0,4
+413,Alaa,Hafiz,Female,26-06-2020,5,Facilities/Engineering,Egypt,West,2749,32988,3,5,4,0
+414,Kamilia,Sydu,Female,25-01-2019,7,IT,Saudi Arabia,West,2617,31404,4.5,1,0,5
+415,Ali,Marwan,Male,20-08-2019,6,IT,United Arab Emirates,North,1680,20160,5,1,0,35
+416,Mahir,Almarstani,Male,09-03-2020,6,Green Building,Egypt,Main,2824,33888,3,3,0,3
+417,Rwad,Alddahir,Female,26-09-2017,8,Product Development,Egypt,West,1646,19752,5,0,0,7
+418,Jury,Eabuwd,Female,04-12-2018,7,Quality Control,Egypt,South,979,11748,5,5,0,8
+419,Sayban,Musur,Female,02-01-2019,7,Quality Assurance,Syria,West,1274,15288,3,0,0,7
+420,Diana,Muayid,Female,27-10-2019,6,Facilities/Engineering,Egypt,North,2715,32580,2,0,0,3
+421,Lbyb,Fahd,Male,12-11-2019,6,Manufacturing,Syria,North,1158,13896,5,0,0,0
+422,Bashshar,Bilul,Male,02-08-2018,7,Marketing,Egypt,East,1986,23832,3,1,0,14
+423,Ali,Alnuwri,Male,27-12-2019,6,Manufacturing,Saudi Arabia,South,3299,39588,5,1,0,0
+424,Salim,Aleabd,Male,23-11-2017,8,Quality Control,Egypt,Main,2405,28860,5,0,0,97
+425,Abd Alruhmin,Allaham,Male,15-07-2020,5,Facilities/Engineering,Egypt,North,2205,26460,3,0,0,4
+426,Muhamad,Raft,Male,11-07-2016,9,Manufacturing,Egypt,East,2651,31812,3,0,0,6
+427,Ahmad,Shakir,Male,30-05-2019,6,Account Management,Egypt,North,1693,20316,4.5,2,5,6
+428,Rasha,Asead,Female,22-12-2019,6,Sales,Egypt,Main,1690,20280,1,0,0,6
+429,Omar,Alwurhani,Male,03-02-2019,7,Account Management,Egypt,Main,766,9192,3,0,0,5
+430,Ayham,Kharbutli,Male,15-07-2019,6,Research/Development,Egypt,South,2542,30504,3,1,0,3
+431,Sahar,Jaridiun,Female,11-10-2016,9,Professional Training Group,United Arab Emirates,East,1966,23592,4.5,0,0,8
+432,Muhamad,Tamur,Male,06-07-2019,6,Manufacturing,Egypt,Main,2977,35724,4.5,0,0,8
+433,Ayham,Alkhlf,Male,04-11-2017,8,Quality Assurance,United Arab Emirates,Main,1404,16848,1,5,0,10
+434,Emar,Eisaf,Female,05-02-2018,8,Quality Control,Syria,North,1848,22176,3,0,0,2
+435,Iin,Bitahish,Female,08-09-2020,5,Manufacturing,Egypt,North,2069,24828,3,2,5,6
+436,Abdalrhim,Eimaruh,Male,18-10-2020,5,Quality Assurance,Saudi Arabia,North,1072,12864,4.5,0,0,6
+437,Bashaer,Hadalah,Female,14-12-2019,6,Product Development,Egypt,Main,1984,23808,1,1,0,8
+438,Sana,Maeruf,Female,21-08-2020,5,Account Management,Egypt,North,999,11988,1,5,0,61
+439,Amir,Alnuwnu,Male,15-05-2020,5,Quality Control,Syria,West,2915,34980,3,0,0,5
+440,Salim,Albarghali,Male,01-11-2019,6,Facilities/Engineering,Egypt,East,3158,37896,4.5,3,0,7
+441,Iin,Murad,Female,30-08-2017,8,IT,Egypt,North,711,8532,5,0,0,10
+442,Baha Aldiyn,Marzuq,Male,05-04-2018,7,Quality Control,Saudi Arabia,West,899,10788,5,6,0,38
+443,Abd Alruhmin,Hamj,Male,10-03-2020,6,Account Management,Egypt,Main,2571,30852,3,1,0,6
+444,Ahmad,Bradey,Male,14-06-2018,7,Quality Control,Egypt,East,2437,29244,5,0,4,8
+445,Sabah,Qadish,Female,18-03-2019,7,Manufacturing,Egypt,East,2453,29436,5,1,0,6
+446,Asra,Almisri,Female,28-06-2018,7,Manufacturing,Egypt,East,1839,22068,5,1,0,9
+447,Faras,Kawaara,Male,21-02-2017,9,Quality Control,United Arab Emirates,West,2306,27672,1,6,0,7
+448,Muhamad,Abunfis,Male,18-06-2018,7,Product Development,Syria,Main,970,11640,1,0,0,5
+449,Lawiy,Shiah,Male,04-05-2018,7,Quality Assurance,Egypt,North,3140,37680,3,6,1,5
+450,Rama,Alsaghir,Female,10-04-2017,8,Professional Training Group,Egypt,Main,1176,14112,5,2,0,6
+451,Ahmad,Qadimati,Male,21-08-2019,6,Facilities/Engineering,United Arab Emirates,East,2742,32904,5,0,0,9
+452,Qays,Dahna,Male,18-09-2017,8,Quality Control,Egypt,West,734,8808,3,0,0,0
+453,Raja,Eaziza,Male,02-02-2018,8,Manufacturing,Syria,Main,894,10728,3,6,0,93
+454,Emar,Nakaash,Female,09-11-2020,5,Account Management,Saudi Arabia,East,2640,31680,4.5,1,5,4
+455,Ranya,Khuluf,Female,01-02-2019,7,Manufacturing,Egypt,North,1059,12708,2,0,0,14
+456,Kinda,Zaki,Female,09-06-2018,7,Product Development,Lebanon,North,3337,40044,3,0,2,6
+457,Muhamad,Asamh Tubae,Male,20-08-2020,5,Quality Assurance,Egypt,North,3154,37848,3,0,0,6
+458,Ahmad,Daeas,Male,12-02-2019,7,Facilities/Engineering,Egypt,Main,1618,19416,3,1,0,1
+459,Muhamad,Shadi Alkhiat,Male,20-02-2017,9,Quality Assurance,United Arab Emirates,Main,1248,14976,5,0,6,7
+460,Omaimah,Tqi Aldiyn,Female,31-08-2017,8,Quality Assurance,Egypt,South,1523,18276,3,6,5,4
+461,Tahani,Yasir,Female,10-01-2019,7,Manufacturing,Egypt,North,1275,15300,4.5,3,0,9
+462,Hasan,Alfywmi,Male,07-01-2019,7,Account Management,Syria,North,1549,18588,3,2,0,5
+463,Zahir,Zarie,Male,02-06-2019,6,Professional Training Group,Saudi Arabia,East,1786,21432,3,4,4,1
+464,Muhamad,Eaqad,Male,02-04-2019,6,Quality Assurance,Saudi Arabia,Main,1908,22896,1,0,5,7
+465,Ahmad,Hamuwd,Male,29-05-2018,7,Facilities/Engineering,United Arab Emirates,North,2321,27852,5,0,0,6
+466,Ismaeil,Jdwe,Male,05-10-2020,5,Facilities/Engineering,United Arab Emirates,Main,899,10788,1,4,0,27
+467,Muhamad,Saeid Alzarey,Male,23-12-2019,6,Professional Training Group,Egypt,North,1168,14016,5,0,0,8
+468,Bakr,Eubdallah,Male,04-04-2018,7,Environmental Compliance,Egypt,Main,2169,26028,1,4,0,2
+469,Muhamad,Basil,Male,10-03-2020,6,Human Resources,Lebanon,Main,2819,33828,4.5,5,0,51
+470,Ahmad,Alnajar,Male,30-10-2018,7,IT,United Arab Emirates,North,847,10164,3,0,0,3
+471,Muhamad,Alsaman,Male,10-03-2020,6,Account Management,Egypt,West,2308,27696,2,0,0,13
+472,Lina,Wayly,Female,01-12-2018,7,Manufacturing,Egypt,East,1692,20304,4.5,4,0,6
+473,Raghid,Hutayniun,Male,28-02-2018,8,Quality Assurance,Egypt,Main,1372,16464,1,0,0,4
+474,Ruba,Alsiraj,Female,01-06-2019,6,Account Management,Egypt,East,2594,31128,3,5,0,0
+475,Adnan,Allaadhiqanii,Male,17-05-2018,7,Quality Control,Egypt,North,1082,12984,5,1,4,8
+476,Muhamad,Shaeban,Male,09-11-2018,7,Manufacturing,Egypt,West,1929,23148,5,3,0,43
+477,Ghyath,Abu,Male,12-09-2019,6,Manufacturing,Saudi Arabia,Main,1883,22596,3,3,0,3
+478,Basil,Farahat,Male,09-05-2019,6,Account Management,United Arab Emirates,West,874,10488,3,0,0,7
+479,Khalid,Siriul,Male,21-08-2016,9,Quality Control,Saudi Arabia,West,2780,33360,3,3,0,2
+480,Salah Aldiyn,Salayk,Male,02-01-2020,6,IT,Syria,South,1980,23760,2,3,0,0
+481,Bilal,Einziin,Male,02-01-2020,6,Major Mfg Projects,Syria,Main,2611,31332,5,4,0,9
+482,Abdalrhmin,Aljuju,Male,10-02-2018,8,Human Resources,Syria,East,1881,22572,5,1,0,1
+483,Lawy,Nadaf,Male,09-06-2016,9,Manufacturing,Egypt,West,1517,18204,5,4,0,6
+484,Ali,Muhamad,Male,26-12-2019,6,Product Development,Egypt,West,1459,17508,4.5,0,0,10
+485,Mahir,Bikar,Male,23-10-2019,6,Professional Training Group,Saudi Arabia,Main,2383,28596,3,0,0,0
+486,Iad,Alhusayn,Male,09-03-2018,8,Quality Assurance,Egypt,South,1420,17040,5,2,6,7
+487,Husam,Ziada,Male,15-09-2018,7,Major Mfg Projects,Egypt,North,1382,16584,4.5,0,1,14
+488,Ahmad,Eashur,Male,23-09-2020,5,IT,United Arab Emirates,West,1920,23040,5,0,5,1
+489,Ahmad,Naqawuh,Male,17-09-2020,5,Quality Assurance,Egypt,North,1202,14424,4.5,0,0,92
+490,Tamadur,Barghuth,Female,25-02-2018,8,Marketing,Saudi Arabia,West,1158,13896,5,0,0,7
+491,Diea,Jazar,Male,20-01-2020,6,Quality Control,Egypt,North,1447,17364,3,0,0,7
+492,Bashshar,Mareiun,Male,23-09-2019,6,Sales,Saudi Arabia,East,1598,19176,3,0,0,95
+493,Abdaleziz,Eiwad,Male,23-05-2020,5,Quality Assurance,United Arab Emirates,East,1714,20568,5,6,0,11
+494,Amir,Alkhawam,Male,30-10-2017,8,Environmental Compliance,United Arab Emirates,West,2994,35928,4.5,1,0,4
+495,Alia,Maseud,Male,08-01-2020,6,Manufacturing,Saudi Arabia,East,2125,25500,4.5,6,0,6
+496,Asra,Abuhani,Female,28-01-2019,7,Quality Assurance,Egypt,Main,3059,36708,4.5,5,0,9
+497,Ahmad,Alshamy,Male,17-01-2019,7,Account Management,United Arab Emirates,Main,2077,24924,5,6,0,4
+498,Baha,Eusqul,Male,08-09-2018,7,Manufacturing,Egypt,West,1962,23544,4.5,6,0,10
+499,Muhamad,Hylmyh,Male,15-05-2019,6,IT,Egypt,North,1573,18876,3,6,0,2
+500,Khadijah,Turkamani,Female,26-06-2019,6,Account Management,Saudi Arabia,North,882,10584,5,0,0,8
+501,Asra,Jameah,Female,25-10-2018,7,Manufacturing,Egypt,West,1036,12432,5,0,6,2
+502,Akram,Alhulwanii,Male,12-01-2016,10,IT,Egypt,East,2790,33480,1,1,0,8
+503,Samir,Almisri,Male,16-08-2019,6,Manufacturing,Egypt,Main,1951,23412,4.5,1,0,8
+504,Ahmad,Iidris,Male,08-07-2018,7,Quality Control,Egypt,Main,2255,27060,5,0,4,10
+505,Khawla,Dawi,Female,17-06-2017,8,Creative,Egypt,East,3388,40656,3,3,0,0
+506,Rayid,Zazana,Male,19-10-2020,5,Marketing,Egypt,West,707,8484,2,1,0,9
+507,Razan,Iybw,Female,14-06-2020,5,Environmental Compliance,Egypt,Main,1161,13932,5,0,0,9
+508,Jamil,Ghabur,Male,17-04-2019,6,Quality Control,United Arab Emirates,Main,1165,13980,5,0,0,9
+509,Alaa,Sultan,Female,18-03-2019,7,IT,United Arab Emirates,Main,1351,16212,5,0,0,7
+510,Sultan,Taysir,Male,06-10-2016,9,Product Development,Egypt,East,1406,16872,3,0,3,7
+511,Hanan,Kurdiun,Female,08-01-2019,7,Account Management,Saudi Arabia,Main,1699,20388,5,0,2,5
+512,Basil,Salih,Male,04-11-2017,8,Facilities/Engineering,Egypt,North,3007,36084,5,0,6,11
+513,Rita,Dib,Female,26-06-2020,5,Product Development,Egypt,Main,879,10548,3,0,0,1
+514,Muhamad,Alghush,Male,01-05-2019,6,Quality Assurance,Lebanon,North,2537,30444,2,0,0,3
+515,Muhamad,Iismaeil,Male,15-11-2020,5,Account Management,Egypt,North,2663,31956,3,0,0,2
+516,Khaldun,Alsaedi,Male,15-10-2020,5,Quality Control,Egypt,Main,2494,29928,4.5,2,0,2
+517,Ghaliah,Eibad,Female,06-11-2019,6,Environmental Health/Safety,United Arab Emirates,North,2585,31020,5,1,5,7
+518,Muhamad,Alsaedi,Male,10-12-2019,6,Green Building,United Arab Emirates,Main,1776,21312,2,0,0,0
+519,Eala,Zaniqa,Female,15-09-2017,8,Facilities/Engineering,Egypt,North,3055,36660,3,0,4,9
+520,Ayham,Sharfah,Male,13-01-2018,8,Manufacturing,Saudi Arabia,Main,1707,20484,3,0,0,4
+521,Ahmad,Kazeur,Male,27-06-2019,6,Facilities/Engineering,United Arab Emirates,Main,2719,32628,3,0,0,7
+522,Mujdi,Kiwan,Male,17-12-2020,5,Marketing,Egypt,South,1715,20580,3,0,0,10
+523,Muhamad,Altynawi,Male,22-01-2019,7,Manufacturing,Egypt,West,2181,26172,2,0,0,1
+524,Lama,Alhasan,Female,17-12-2017,8,Manufacturing,United Arab Emirates,North,1382,16584,5,0,4,8
+525,Lama,Almisri,Female,06-05-2020,5,Manufacturing,Egypt,North,3350,40200,2,0,0,8
+526,Thayir,Hamuwda,Male,09-05-2020,5,Facilities/Engineering,United Arab Emirates,East,1710,20520,5,0,0,9
+527,Abdallah,Zakariaa,Male,08-05-2019,6,Manufacturing,United Arab Emirates,Main,2785,33420,1,0,4,3
+528,Ikhlas,Alhasan,Female,15-11-2019,6,Human Resources,United Arab Emirates,Main,2425,29100,4.5,0,0,10
+529,Muhamad,Jzayrly,Male,28-07-2018,7,Marketing,Egypt,South,1117,13404,3,3,0,8
+530,Husam,Badr,Male,27-04-2019,6,Account Management,Egypt,Main,1112,13344,5,1,6,40
+531,Rami,Hunun,Male,23-04-2020,5,Marketing,Egypt,West,1928,23136,4.5,6,0,1
+532,Alia,Abu,Female,06-11-2018,7,Facilities/Engineering,Saudi Arabia,West,3300,39600,5,0,0,4
+533,Samir,Sariji,Male,15-07-2020,5,Marketing,Egypt,North,2378,28536,5,0,0,5
+534,Muhamad,Albieli,Male,26-06-2016,9,Quality Control,United Arab Emirates,Main,3138,37656,5,0,0,10
+535,Ahmad,Eyd Bndqjy,Male,29-07-2017,8,Manufacturing,United Arab Emirates,Main,1981,23772,5,1,0,3
+536,Maria,Lulu,Female,14-06-2018,7,Manufacturing,Saudi Arabia,North,1056,12672,3,0,0,94
+537,Muhamad,Shhybr,Male,31-12-2019,6,Facilities/Engineering,Egypt,East,3295,39540,5,0,0,2
+538,Abdalbasit,Aljazayiriu,Male,08-10-2019,6,Facilities/Engineering,Egypt,North,1022,12264,4.5,1,0,2
+539,Bilal,Aywbi,Male,21-10-2020,5,Green Building,United Arab Emirates,Main,969,11628,3,1,0,0
+540,Ahmad,Dabana,Male,13-04-2019,6,Environmental Compliance,Egypt,North,3354,40248,4.5,3,0,1
+541,Fawaz,Ghazal,Male,21-01-2020,6,Quality Control,Egypt,North,2123,25476,5,0,0,15
+542,Bisam,Altahhan,Female,20-09-2019,6,Facilities/Engineering,Egypt,West,897,10764,3,2,0,11
+543,Muhamad,Amir,Male,17-04-2018,7,Quality Control,Saudi Arabia,Main,2925,35100,3,3,0,14
+544,Lilas,Nafae,Female,05-09-2018,7,Quality Control,Egypt,Main,1895,22740,2,0,5,81
+545,Muhamad,Ayman,Male,09-02-2016,10,Environmental Health/Safety,Egypt,West,2191,26292,5,2,0,7
+546,Ranim,Earabi,Female,29-02-2020,6,Research/Development,Egypt,North,3130,37560,3,0,0,5
+547,Amani,Altujjar,Female,21-11-2016,9,Product Development,Egypt,West,2654,31848,3,0,1,7
+548,Muhamad,Rashid,Male,27-12-2020,5,Quality Control,Saudi Arabia,Main,859,10308,5,0,1,5
+549,Amin,Hamid,Male,16-06-2016,9,Quality Assurance,Egypt,North,1113,13356,3,4,0,11
+550,Khalid,Jameah,Male,17-09-2019,6,Account Management,Egypt,South,1234,14808,5,1,5,10
+551,Fahd,Shaykh,Male,16-12-2019,6,Marketing,Egypt,North,2647,31764,3,4,0,1
+552,Lilas,Kashik,Female,01-08-2016,9,Green Building,Saudi Arabia,North,2200,26400,1,1,0,6
+553,Fatima,Hasan,Female,24-03-2018,8,Major Mfg Projects,Egypt,North,2381,28572,4.5,2,0,10
+554,Diea,Dakhal,Male,18-12-2019,6,Account Management,United Arab Emirates,Main,2329,27948,2,0,0,5
+555,Amir,Karishati,Male,30-07-2019,6,Manufacturing,Egypt,Main,1075,12900,3,0,4,61
+556,Madlin,Alsaed,Female,05-10-2017,8,Marketing,Egypt,Main,3110,37320,1,1,4,1
+557,Adnan,Aleaqla,Male,23-05-2017,8,Manufacturing,Egypt,North,2777,33324,5,0,0,10
+558,Muhamad,Eursaly,Male,01-03-2019,7,Training,Egypt,West,2306,27672,2,5,5,11
+559,Ranya,Alaishhab,Female,18-12-2016,9,Quality Assurance,Egypt,Main,1213,14556,3,0,0,10
+560,Rulaa,Shannar,Female,19-04-2020,5,Quality Assurance,Egypt,South,2680,32160,4.5,0,0,1
+561,Aynas,Alhiwat,Female,17-11-2020,5,Quality Assurance,Egypt,East,2204,26448,4.5,1,0,4
+562,Sara,Tabanaj,Female,13-01-2018,8,Manufacturing,Egypt,Main,1297,15564,2,2,0,8
+563,Abd Allah,Aldahan,Male,14-12-2020,5,Quality Control,Egypt,North,3024,36288,4.5,6,1,48
+564,Muhamad,Ramzi,Male,11-02-2018,8,Creative,Egypt,Main,2228,26736,5,1,0,78
+565,Jan,Mikayiylian,Male,08-01-2016,10,Quality Assurance,Egypt,West,2009,24108,4.5,6,0,0
+566,Almuthanaa,Alsaediu,Male,13-09-2020,5,Account Management,Egypt,North,2573,30876,5,0,0,28
+567,Emad,Dulul,Male,04-04-2018,7,Manufacturing,Egypt,North,1938,23256,3,0,0,7
+568,Sarah,Haydar,Female,17-07-2019,6,Account Management,Egypt,Main,1208,14496,5,3,0,10
+569,Abdalkarim,Shueayb,Male,17-07-2019,6,Manufacturing Admin,Syria,West,2342,28104,4.5,5,0,10
+570,Muhamad,Khayr,Male,29-04-2020,5,IT,Egypt,Main,3244,38928,4.5,0,0,78
+571,Shadi,Qitan,Male,04-04-2017,8,Account Management,Egypt,North,2613,31356,4.5,0,1,5
+572,Muhamad,Rajab,Male,19-12-2020,5,Manufacturing,Saudi Arabia,Main,2263,27156,5,0,0,9
+573,Khalid,Alkhawam,Male,06-07-2016,9,Account Management,Egypt,East,3157,37884,5,0,0,1
+574,Muhamad,Asamh,Male,07-03-2018,8,Account Management,Syria,South,2519,30228,5,2,2,10
+575,Alaa,Alyusif,Female,04-03-2020,6,IT,United Arab Emirates,West,3019,36228,4.5,2,0,15
+576,Asym,Aleaqqad,Female,22-04-2019,6,Manufacturing,United Arab Emirates,East,3048,36576,2,3,6,6
+577,Ahmad,Dahman,Male,12-12-2019,6,Manufacturing,Egypt,West,1523,18276,4.5,0,4,2
+578,Oqba,Alqintar,Male,09-02-2019,7,Marketing,Egypt,East,2197,26364,1,1,0,8
+579,Rahaf,Laylanaan,Female,01-04-2019,6,Product Development,Egypt,Main,1870,22440,4.5,0,3,15
+580,Muhamad,Rajab,Male,17-03-2018,8,Manufacturing,United Arab Emirates,Main,1058,12696,5,0,0,10
+581,Ramadan,Muhii Aldiyn,Male,03-10-2019,6,Sales,Egypt,South,1257,15084,4.5,1,3,2
+582,Zaynab,Eirat,Female,26-12-2019,6,Product Development,United Arab Emirates,Main,819,9828,4.5,5,0,7
+583,Salah Aldiyn,Altibae,Male,06-11-2019,6,Research Center,United Arab Emirates,North,3068,36816,2,4,0,8
+584,Faras,Alghandur,Male,25-09-2019,6,IT,Syria,East,1814,21768,3,0,0,6
+585,Husam,Tamim,Male,20-05-2019,6,Quality Control,Egypt,East,1076,12912,5,1,0,4
+586,Ayat,Byd,Female,01-01-2017,9,Environmental Health/Safety,Egypt,North,3120,37440,3,3,0,2
+587,Rima,Daly,Female,29-08-2020,5,Quality Control,Egypt,North,1359,16308,2,0,0,8
+588,Muhamad,Almunajid,Male,04-01-2020,6,Manufacturing,Egypt,North,3391,40692,1,0,3,1
+589,Eynas,Muhamad,Female,11-08-2020,5,IT,Syria,Main,1892,22704,5,0,0,6
+590,Ahmad,Ahmid,Male,23-02-2020,6,Manufacturing,Egypt,West,2639,31668,1,1,0,3
+591,Madlin,Aljabaei,Female,27-07-2020,5,Facilities/Engineering,Egypt,North,1580,18960,5,2,5,6
+592,Ali,Alqadri,Male,15-08-2019,6,Quality Control,Egypt,North,2186,26232,3,0,0,4
+593,Muhamad,Dib,Male,07-08-2019,6,Facilities/Engineering,United Arab Emirates,West,1574,18888,2,0,0,6
+594,Hanan,Bradiei,Female,23-02-2018,8,Account Management,Saudi Arabia,North,2013,24156,4.5,6,0,8
+595,Danah,Suirkili,Female,05-01-2020,6,IT,Egypt,North,2075,24900,2,0,0,5
+596,Ghada,Darakal,Female,05-05-2018,7,Manufacturing,Egypt,North,1372,16464,1,0,3,2
+597,Mazin,Bihtiti,Male,03-08-2018,7,Facilities/Engineering,Egypt,Main,2026,24312,4.5,0,0,7
+598,Ridwan,Alshulyan,Male,29-04-2017,8,Manufacturing,United Arab Emirates,North,1351,16212,2,0,0,8
+599,Ali,Barghaly,Male,29-05-2017,8,Quality Control,Egypt,West,1111,13332,1,3,0,6
+600,Iad,Badran,Male,04-07-2020,5,Quality Control,Egypt,North,1554,18648,5,6,5,8
+601,Abdalrhmin,Shwk,Male,20-10-2019,6,Quality Assurance,Saudi Arabia,West,3057,36684,5,0,0,0
+602,Husam,Aldiyn,Male,19-12-2018,7,IT,Saudi Arabia,South,1733,20796,3,0,0,3
+603,Ahmad,Hamuwdatan,Male,24-01-2016,10,Environmental Health/Safety,Egypt,Main,1511,18132,5,0,0,2
+604,Ahmad,Laylana,Male,02-01-2017,9,Sales,Egypt,Main,2542,30504,5,0,6,6
+605,Shuruq,Aljuju,Female,31-12-2019,6,Quality Control,Egypt,North,1573,18876,1,2,0,3
+606,Muhamad,Alshahrur,Male,02-10-2017,8,Manufacturing,Syria,Main,2604,31248,3,0,0,1
+607,Rafif,Khalf,Female,07-05-2019,6,Quality Assurance,Syria,West,3152,37824,5,0,0,8
+608,Muhamad,Alkhatib,Male,23-09-2020,5,Account Management,United Arab Emirates,East,2655,31860,5,0,0,6
+609,Muhamad,Albarnawi,Male,12-02-2016,10,Manufacturing Admin,Egypt,South,1405,16860,5,6,0,10
+610,Ali,Almiqdad,Male,14-05-2018,7,Manufacturing,Egypt,North,3100,37200,5,0,0,7
+611,Ranya,Faris,Female,31-07-2017,8,Manufacturing,United Arab Emirates,East,2729,32748,4.5,0,0,6
+612,Ali,Alshaykh,Male,09-07-2018,7,Marketing,Egypt,Main,1467,17604,5,0,0,7
+613,Iin,Kafa,Female,25-02-2017,9,Manufacturing,Saudi Arabia,Main,1612,19344,5,0,0,4
+614,Muhamad,Almaghribi,Male,19-04-2019,6,Quality Control,Egypt,Main,2901,34812,5,0,0,6
+615,Sami,Aldrwysh,Male,05-08-2017,8,Environmental Health/Safety,Egypt,Main,1999,23988,3,0,0,4
+616,Samah,Alkhatib,Female,19-05-2018,7,Account Management,Saudi Arabia,North,705,8460,3,6,0,8
+617,Eala,Hatim,Female,29-09-2019,6,Sales,Egypt,North,3311,39732,4.5,0,0,1
+618,Dalia,Nahlawi,Female,07-01-2018,8,Manufacturing,Egypt,West,2516,30192,3,6,0,3
+619,Rabye',Alzrqawy,Male,04-10-2019,6,Account Management,Saudi Arabia,North,2000,24000,3,1,0,0
+620,Kholoud,Huquq,Female,27-09-2019,6,Facilities/Engineering,United Arab Emirates,South,2860,34320,3,0,6,7
+621,Ibrahim,Alqatish,Male,02-04-2019,6,Quality Control,Egypt,East,943,11316,4.5,0,0,1
+622,Salih,Altawil,Male,12-09-2019,6,Quality Control,Syria,Main,1018,12216,2,5,0,10
+623,Sami,Alsyd Ahmad,Male,06-02-2019,7,Quality Control,Egypt,South,1835,22020,3,1,0,50
+624,Zahir,Aleitar,Male,05-09-2018,7,Quality Assurance,Syria,West,2192,26304,4.5,0,4,1
+625,Fatir,Alealiu,Male,25-06-2019,6,Manufacturing,Egypt,Main,2875,34500,3,0,0,4
+626,Samir,Alealiu,Male,29-09-2019,6,Marketing,Saudi Arabia,West,1332,15984,2,0,0,14
+627,Muhamad,Sulayman,Male,02-12-2017,8,IT,Saudi Arabia,North,2023,24276,5,6,0,5
+628,Muhamad,Suqabani,Male,21-11-2020,5,Quality Assurance,Egypt,East,2094,25128,4.5,6,5,2
+629,Muhamad,Aldubbas,Male,01-06-2019,6,Green Building,Saudi Arabia,North,3006,36072,4.5,0,3,7
+630,Hamzaa,Astitih,Male,26-11-2019,6,Manufacturing,United Arab Emirates,Main,2717,32604,5,0,0,7
+631,Sulayman,Zinu,Male,14-08-2018,7,Training,United Arab Emirates,Main,3135,37620,3,1,0,5
+632,Alaa,Alrifaei,Female,07-11-2019,6,Account Management,United Arab Emirates,North,2334,28008,1,2,0,2
+633,Rasha,Alrifaei,Female,22-01-2019,7,Account Management,Egypt,North,1661,19932,5,4,0,9
+634,Bayan,Darbika,Female,10-05-2019,6,Research Center,Egypt,East,1230,14760,5,0,6,5
+635,Iin,Almunzilijiu,Female,05-03-2016,10,Sales,Saudi Arabia,Main,1483,17796,5,0,2,8
+636,Abd Alwahhab,Aldhiyab,Male,29-05-2019,6,Quality Control,United Arab Emirates,North,2462,29544,3,6,3,2
+637,Hanan,Salahi,Female,29-12-2020,5,Quality Assurance,Egypt,East,2180,26160,5,3,0,0
+638,Mari,Ayuwb,Female,25-07-2016,9,Creative,Egypt,North,943,11316,5,0,4,7
+639,Omar,Shawqi,Male,11-08-2019,6,Major Mfg Projects,Egypt,Main,2489,29868,3,6,0,3
+640,Tariq,Aldhahabi,Male,12-11-2019,6,Product Development,Egypt,South,2279,27348,5,0,0,4
+641,Rama,Asead,Female,14-01-2019,7,Quality Assurance,Saudi Arabia,Main,840,10080,3,4,0,10
+642,Ghayth,Eali,Male,15-02-2019,7,Quality Control,Egypt,North,1601,19212,5,0,0,3
+643,Mahir,Eabuwd,Male,28-04-2018,7,Account Management,Egypt,North,1414,16968,5,4,0,10
+644,Muwmin,Almujahid,Male,25-03-2020,6,IT,United Arab Emirates,North,905,10860,3,0,0,8
+645,Dima,Drwysh,Female,04-03-2020,6,Facilities/Engineering,United Arab Emirates,North,2525,30300,3,0,0,10
+646,Muhamad,Khalid,Male,25-05-2018,7,Sales,Egypt,North,1412,16944,2,0,0,7
+647,Diea,Filyun,Male,04-01-2020,6,Manufacturing,Syria,Main,2397,28764,3,0,0,100
+648,Muhamad,Tasbihji,Male,12-08-2020,5,Account Management,Egypt,North,1153,13836,4.5,0,2,10
+649,Mazin,Shumut,Male,05-08-2017,8,Account Management,Egypt,North,2091,25092,2,0,0,6
+650,Omar,Zaqzuq,Male,29-06-2020,5,Manufacturing,United Arab Emirates,West,1444,17328,5,3,0,7
+651,Yasmin,Eamir,Female,01-03-2017,9,Manufacturing,Egypt,North,2360,28320,4.5,0,0,1
+652,Muhamad,Haydar,Male,12-12-2020,5,Facilities/Engineering,United Arab Emirates,North,2576,30912,1,6,0,6
+653,Muhamad,Ratib,Male,24-11-2019,6,Account Management,Egypt,Main,2376,28512,2,6,0,57
+654,Muayid,Siedih,Male,04-08-2019,6,Facilities/Engineering,United Arab Emirates,North,2924,35088,4.5,0,0,10
+655,Husam,Alhamd,Male,19-02-2017,9,Quality Assurance,Saudi Arabia,West,2548,30576,1,0,0,10
+656,Abdalkrim,Fadal,Male,22-01-2020,6,Account Management,Saudi Arabia,South,841,10092,1,4,0,7
+657,Bayan,Eurnus,Female,15-05-2020,5,Manufacturing,Egypt,North,3017,36204,3,0,0,6
+658,Abd Almueiyn,Eitaya,Male,26-01-2018,8,Facilities/Engineering,United Arab Emirates,North,1077,12924,5,0,0,9
+659,Sahar,Qisam,Female,03-05-2018,7,Marketing,Egypt,South,3316,39792,4.5,0,0,8
+660,Rafat,Musaa,Male,08-12-2018,7,Creative,Syria,South,2188,26256,4.5,5,0,9
+661,Shafiq,Almalih,Male,04-02-2019,7,Creative,United Arab Emirates,South,1684,20208,5,0,0,6
+662,Raghad,Aghasi,Female,14-11-2019,6,Account Management,Egypt,Main,716,8592,3,0,0,8
+663,Ruba,Alhumwi,Female,19-05-2019,6,Manufacturing,Egypt,North,2703,32436,2,0,0,4
+664,Bilal,Alqalish,Male,08-07-2018,7,Manufacturing Admin,Egypt,East,2361,28332,5,0,0,1
+665,Muhamad,Almisri,Male,06-11-2020,5,Manufacturing,Egypt,Main,1797,21564,1,6,0,7
+666,Husayn,Hawria,Male,13-06-2020,5,Environmental Compliance,Egypt,East,2252,27024,3,0,0,2
+667,Safa,Alshahadat,Female,30-09-2018,7,Manufacturing,Egypt,North,2486,29832,5,5,2,9
+668,Ahmad,Aldiyk,Male,13-06-2020,5,Manufacturing,Egypt,North,1197,14364,2,4,0,8
+669,Hind,Almueasaeas,Female,05-05-2019,6,Facilities/Engineering,Saudi Arabia,North,3389,40668,3,1,0,7
+670,Dania,Earmush,Female,01-12-2019,6,Product Development,United Arab Emirates,Main,2760,33120,1,6,6,1
+671,Ayly,Bahriin,Male,14-09-2017,8,Professional Training Group,Saudi Arabia,Main,1232,14784,5,3,0,10
+672,Jihan,Nadir,Female,18-04-2019,6,Facilities/Engineering,United Arab Emirates,North,1045,12540,5,6,0,4
+673,Muhamad,Sharif Aldaghly,Male,04-01-2018,8,IT,Egypt,West,3257,39084,3,0,0,6
+674,Emara,bwalsibae,Female,01-03-2018,8,Facilities/Engineering,Egypt,South,3026,36312,3,4,0,1
+675,Razzan,Alhusayni,Female,28-10-2019,6,Quality Assurance,Egypt,North,1898,22776,4.5,1,0,2
+676,Ghassan,Aljamal,Male,24-06-2018,7,Manufacturing,Egypt,South,2778,33336,3,2,0,20
+677,Omar,Kahulus,Male,04-01-2018,8,Quality Assurance,Syria,North,2880,34560,2,4,0,5
+678,Amjad,Nasir,Male,14-03-2019,7,Research Center,Saudi Arabia,Main,2815,33780,3,6,0,2
+679,Iman,Ghrz Aldiyn,Female,14-12-2018,7,Green Building,Syria,East,1134,13608,2,0,0,14
+680,Alysia,Alyaghshiu,Female,19-10-2019,6,Training,United Arab Emirates,West,3334,40008,1,0,0,4
+681,Ayham,Alqadi,Male,30-05-2020,5,Manufacturing,Syria,East,2574,30888,3,3,0,4
+682,Diea,Shuelan,Male,06-03-2019,7,Manufacturing,Egypt,West,1123,13476,1,0,0,7
+683,Husam,Alsaed,Male,12-05-2016,9,Account Management,United Arab Emirates,Main,2147,25764,3,0,4,2
+684,Asd,Bwfaeur,Male,27-06-2017,8,IT,Egypt,Main,2929,35148,4.5,0,0,2
+685,Sari,Hanna,Male,26-05-2020,5,Marketing,Lebanon,South,1452,17424,2,0,3,1
+686,Eubayda,Kayd,Male,03-06-2020,5,Facilities/Engineering,Egypt,North,3237,38844,3,1,0,4
+687,Khalil,Alkalu,Male,11-07-2017,8,Facilities/Engineering,Egypt,North,2819,33828,5,0,0,0
+688,Muhamad,Shrbjy,Male,30-05-2018,7,Creative,Egypt,North,2069,24828,3,0,0,10
+689,Abd Albasit,AlAhmar,Male,05-08-2020,5,IT,United Arab Emirates,North,2606,31272,5,0,0,0
