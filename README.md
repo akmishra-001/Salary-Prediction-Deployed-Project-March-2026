@@ -49,7 +49,7 @@ text
 Run App
 bash
 streamlit run App-2.py
-App opens at: http://localhost:8501
+App opens at: https://salary-predictor-ml-web-app.onrender.com/
 
 📁 Project Structure
 
