@@ -15,8 +15,8 @@ Dataset: 689 employee records with 15+ features
 
 📊 Live Demo
 
-🔗 Deployed App: [Streamlit Cloud/Share](https://your-app-link.streamlit.app)
-🌐 GitHub Repo: [akmishra-001/Salary-Prediction](https://github.com/akmishra-001/Salary-Prediction-Deployed-Project-March-2026)
+🔗 Deployed App: [Render Cloud/Share](https://salary-predictor-ml-web-app.onrender.com/)
+🌐 GitHub Repo: [akmishra-001/Salary-Prediction](https://github.com/akmishra-001/Salary-Prediction-Deployed-Project-March-2026.git)
 
 🛠 Tech Stack
 
@@ -26,6 +26,7 @@ Dataset: 689 employee records with 15+ features
 📦 Model Persistence: joblib (.pkl)
 📈 Visualization: matplotlib/seaborn
 🚀 Quick Start (Local)
+
 Prerequisites
 Python 3.8+
 
@@ -40,15 +41,18 @@ bash
 pip install -r requirements.txt
 Note: Add these missing files first!
 text
-❌ Missing: LinearModel.pkl (trained model)
-❌ Missing: requirements.txt
-✅ Available: App-2.py, Analysis_Modeling_LR.ipynb, Employees-3.csv
+ LinearModel.pkl (trained model)
+ requirements.txt
+✅ Available: App-2.py, Analysis_Modeling_LR.ipynb, Employees-3.csv,  LinearModel.pkl (trained model)
+ requirements.txt
+
 Run App
 bash
 streamlit run App-2.py
 App opens at: http://localhost:8501
 
 📁 Project Structure
+
 text
 ├── App-2.py              # Main Streamlit app
 ├── Analysis_Modeling_LR.ipynb  # Complete ML pipeline
@@ -57,6 +61,7 @@ text
 ├── requirements.txt      # 🆕 ADD: Dependencies list
 └── README.md            # This file!
 🔬 Model Details
+
 Linear Regression Model trained on key features:
 
 Years of Experience
@@ -103,10 +108,8 @@ Experience	Job Rate	Gender	Department	Predicted Salary
 👥 Gender: Mixed (Male/Female)
 📈 Experience: 5-10 years dominant
 🏗 Deployment Options
-Streamlit Cloud (Free)
+Render Cloud (Free)
 Push to GitHub
-
-Connect at share.streamlit.io
 
 Auto-deploys on push!
 
